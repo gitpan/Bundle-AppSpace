@@ -2,7 +2,7 @@ package Bundle::AppSpace;
 
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = 0.1;
+	$VERSION = 0.2;
 }
 
 1;

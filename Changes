@@ -1,4 +1,7 @@
-Revision history for Perl extension Bundle::CVSMonitor
+Revision history for Perl extension Bundle::AppSpace
+
+0.2  Sun Sep 21 2003
+	- Update to force the newest versions of several modules
 
 0.1  Fri Nov 01 15:37:03 2002
 	- original version

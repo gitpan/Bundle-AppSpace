@@ -1,0 +1,37 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Bundle-AppSpace
+version:      0.2
+version_from: lib/Bundle/AppSpace.pm
+installdirs:  site
+requires:
+    Archive::Builder:              0.5
+    Archive::Tar:                  0
+    Archive::Zip:                  0
+    Array::Window:                 0
+    Bundle::DBI:                   0
+    CGI:                           0
+    CGI::Carp:                     0
+    Class::Autouse:                1
+    Class::Default:                0.2
+    Class::Handle:                 0.4
+    Class::Inspector:              1
+    Clone:                         0.13
+    Config::Tiny:                  1.2
+    Cwd:                           0
+    File::Copy:                    0
+    File::Flat:                    0.8
+    File::Flock:                   0
+    File::Spec:                    0.83
+    File::Temp:                    0
+    FindBin:                       0
+    Getopt::Long:                  0
+    HTTP::BrowserDetect:           0.97
+    IO::File:                      0
+    IO::Scalar:                    0
+    Proc::ProcessTable:            0
+    Time::ParseDate:               100.010301
+    URI::Escape:                   0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.16
