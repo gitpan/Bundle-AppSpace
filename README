@@ -1,0 +1,69 @@
+NAME
+    Bundle::AppSpace - A bundle to install all modules needed for an
+    AppSpace installation
+
+SYNOPSIS
+    "perl -MCPAN -e 'install Bundle::AppSpace'"
+
+CONTENTS
+    Archive::Tar
+
+    Archive::Zip
+
+    Array::Window
+
+    CGI
+
+    CGI::Carp - For it's fatalsToBrowser
+
+    Clone
+
+    Cwd
+
+    Class::Autouse - Dynamic module loading
+
+    Class::Default
+
+    Class::Inspector - Look at classes
+
+    Class::Handle
+
+    Compress::Zlib
+
+    Config::Tiny - Config files
+
+    File::Spec - Path calculation
+
+    File::Copy
+
+    File::Flat - Flat filesystem
+
+    File::Temp
+
+    File::Flock
+
+    FindBin
+
+    Getopt::Long
+
+    HTTP::BrowserDetect
+
+    IO::File
+
+    IO::Zlib
+
+    Net::Telnet
+
+    Proc::ProcessTable
+
+    Time::ParseDate
+
+    URI::Escape
+
+DESCRIPTION
+    This bundle provides a correct install of all modules needed to get a
+    Phase N AppSpace installation working.
+
+AUTHOR
+    Adam Kennedy <cpan@ali.as>
+
